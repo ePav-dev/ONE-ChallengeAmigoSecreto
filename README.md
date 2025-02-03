@@ -1,4 +1,8 @@
 # ONE-ChallengeAmigoSecreto
+
+![GitHub Created At](https://img.shields.io/github/created-at/ePav-dev/ONE-ChallengeAmigoSecreto)
+
+
 Challenge Amigo Secreto (ONE)
 *<p>O objetivo principal deste desafio é desenvolver habilidades em lógica de programação, por isso fornecemos o HTML e CSS já preparados. Dessa forma, você pode se concentrar exclusivamente em construir a lógica do código JavaScript, aplicando conceitos-chave como funções, arrays, condicionais e variáveis. Isso permitirá que você foque em resolver o problema e melhore o raciocínio lógico, sem se preocupar com a estrutura visual do projeto. </p>*
 
@@ -30,7 +34,13 @@ Acesse o código aqui:
 [Oracle-Next-Education/challenge-amigo-secreto_pt: Aplicação que permite aos usuários inserir nomes de amigos em uma lista e logo realizar um sorteio para determinar quem é o amigo secreto](https://github.com/Oracle-Next-Education/challenge-amigo-secreto_pt)
 
 ---
-# ONE-ChallengeAmigoSecreto - Minha solução
+# ONE-ChallengeAmigoSecreto - Minha solução ![Static Badge](https://img.shields.io/badge/under_development-blue)
+
+![GitHub Created At](https://img.shields.io/github/created-at/ePav-dev/ONE-ChallengeAmigoSecreto)  ![GitHub last commit](https://img.shields.io/github/last-commit/ePav-dev/ONE-ChallengeAmigoSecreto)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/ePav-dev/ONE-ChallengeAmigoSecreto)  ![GitHub contributors](https://img.shields.io/github/contributors/ePav-dev/ONE-ChallengeAmigoSecreto)
+
+![GitHub language count](https://img.shields.io/github/languages/count/ePav-dev/ONE-ChallengeAmigoSecreto)
+
+
 
 ## 2.1 O Meu Código, desafios e passos
 
